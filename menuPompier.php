@@ -8,9 +8,9 @@
                   <ul class="nav child_menu" style="display: none">
                     <li><a href="bilan-circonstanciel.php">Bilan circonstanciel</a></li>
                     <li><a href="bilan-urgence-vitale.php">Bilan d'urgence vitale</a></li>
-                    <li><a href="index3.html">Bilan complémentaire suite à un malaise ou l’aggravation d’une maladie</a></li>
-                    <li><a href="index3.html">Bilan complémentaire suite à un traumatisme</a></li>
-                    <li><a href="index3.html">Surveillance de la victime</a></li>
+                    <li><a href="bilan-complementaire-malaise.php">Bilan complémentaire suite à un malaise ou l’aggravation d’une maladie</a></li>
+                    <li><a href="bilan-complementaire-traumatisme.php">Bilan complémentaire suite à un traumatisme</a></li>
+                    <li><a href="surveillance-de-la-victime.php">Surveillance de la victime</a></li>
                   </ul>
                 </li>
                 <li><a><i class="fa fa-home"></i> Protection et sécurité <span class="fa fa-chevron-down"></span></a>
