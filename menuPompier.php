@@ -15,7 +15,8 @@
                 </li>
                 <li><a><i class="fa fa-home"></i> Protection et sécurité <span class="fa fa-chevron-down"></span></a>
                   <ul class="nav child_menu" style="display: none">
-                    <li><a href="index.html">Sécurité sur intervention</a></li>
+                    <li><a href="protection-indivduelle-de-l-intervenant.php">Protection individuelle</a></li>
+                    <li><a href="securite-sur-intervention">Sécurité sur intervention</a></li>
                     <li><a href="index2.html">Protection d'un accident électrique</a></li>
                     <li><a href="index3.html">Protection d'un accident de la route</a></li>
                     <li><a href="index3.html">Protection contre le monoxyde de carbone</a></li>
