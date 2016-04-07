@@ -1,7 +1,7 @@
 <?php
 include './header.php';
 
-$titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une maladie';
+$titre = 'Bilan circonstanciel';
 ?>
 
 
@@ -64,7 +64,7 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="x_panel">
                 <div class="x_title">
-                  <h2><?php echo $titre; ?> (Théorie)</h2>
+                  <h2><?php echo $titre; ?> Théorie</h2>
                   <ul class="nav navbar-right panel_toolbox">
                     <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                     </li>
@@ -84,46 +84,18 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
                 </div>
                 <div class="row">
                   <div class="col-md-12 col-sm-12 col-xs-12 bdy">
-                    <p>
-                      La transmission du bilan s'eftectue à l'aide des moyens et selon les procédures en vigueur entre l'autorité employant les intervenants et l'autorité médicale à laquelle le bilan est transmis. Cete transmission doit être concise, complète, structurée, logique et présentée de façon chrono-logique.
-                    </p>
-                    <h4>La situation nécessite immédiatement des moyens en renfort</h4>
-                    <p>
-                      <ul>
-                        <li>Transmettre le bilan circonstanciel ; <br>Ce bilan précise la nature de l'intervention et doit être particulièrement descriptif de la situation lorsque des moyens de secours particuliers sont demandés. </li>
-                        <li>demander les moyens supplémentaires nécessaires ; </li>
-                        <li>corriger éventuellement les informations de départ erronées.</li>
-                      </ul>
-                    </p>
+                    Pour faire face à ce risque <sup>1</sup>, il convient de :
+                    <ul>
+                      <li>rester à distance de la fuite ou de la matière dangereuse ;</li>
+                      <li>écarter les témoins de la scène</li>
+                      <li>interdire de fumer ;</li>
+                      <li>rester en amont de l'accident par rapport au vent pour se protéger des émanations qui peuvent agir à distance de l'accident ;</li>
+                      <li>alerter immédiatement les sapeurs-pompiers et leur indiquer éventuellement si le véhicule en cause est porteur d'un panneau de danger signalant des toxiques</li>
+                    </ul>
 
-                    <h4>La victime présente une urgence vitale, la médicalisation ne fait pas de doute</h4>
-                    <p>
-                      <ul>
-                        <li>Transmettre sans délai une demande de moyen médical en renfort, mo7vée par la constatation d'une ou plusieurs détresses vitales.</li>
-                      </ul>
-                    </p>
-                    En particulier préciser :
-                    <p>
-                      <ul>
-                        <li>la nature de l'intervention ; </li>
-                        <li>le motif de la demande du renfort médical ; </li>
-                        <li>le sexe et l'âge de la victime ; </li>
-                        <li>corriger éventuellement les informations de départ erronées. </li>
-                      </ul>
-                    </p>
-                    Ultérieurement, dans les meilleurs délais, compléter par la transmission d'un bilan complet.
-                    <h4>La victime ne présente pas de détresse évidente</h4>
-                    <p>
-                      Après la réalisation du bilan complémentaire, transmettre la totalité du bilan de façon concise et ordonnée. Pour cela, il convient d'indiquer :
-                      <ul>
-                        <li>le motif réel de l'intervention ; </li>
-                        <li>le sexe et l'âge de la victime ; </li>
-                        <li>la plainte principale ; </li>
-                        <li>le résultat du bilan d'urgence vitale ; </li>
-                        <li>le résultat du bilan complémentaire ; </li>
-                        <li>les gestes de secours entrepris. </li>
-                      </ul>
-                    </p>
+                    <br>
+                    <br>
+                    1. La libération de substances dangereuses ou la fuite de produit toxique est le plus souvent rencontrée à la suite d'un accident de la circulation touchant un véhicule qui transporte des matières dangereuses ou à la suite d'un accident industriel.
                   </div>
                 </div>
               </div>

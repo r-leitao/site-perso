@@ -83,7 +83,7 @@ $titre = 'Bilan circonstanciel';
                   <div class="clearfix"></div>
                 </div>
                 <div class="row">
-                  <div class="col-md-12 col-sm-12 col-xs-12">
+                  <div class="col-md-12 col-sm-12 col-xs-12 bdy">
                     <h4>Sécurité sur intervention </h4>
                     <p>
                       Lors du bilan circonstanciel, il convient de reconnaitre les dangers. Pour cela :

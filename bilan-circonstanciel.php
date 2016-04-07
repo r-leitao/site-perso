@@ -83,7 +83,7 @@ $titre = 'Bilan circonstanciel';
                   <div class="clearfix"></div>
                 </div>
                 <div class="row">
-                  <div class="col-md-12 col-sm-12 col-xs-12">
+                  <div class="col-md-12 col-sm-12 col-xs-12 bdy">
                     <h4>Déterminer la nature de l’intervention</h4>
                     <p>
                       Dès l’arrivée sur les lieux,  il  convient  d’analyser  la  scène et  de  rechercher  tous  les éléments  qui peuvent aider à déterminer   la  nature  de  l’interven7on   (accident, maladie,  intoxica7on)  et  les circonstances de  survenue.

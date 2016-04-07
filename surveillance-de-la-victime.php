@@ -83,7 +83,7 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
                   <div class="clearfix"></div>
                 </div>
                 <div class="row">
-                  <div class="col-md-12 col-sm-12 col-xs-12">
+                  <div class="col-md-12 col-sm-12 col-xs-12 bdy">
                     <p>
                       Lors de la surveillance d'une victime, il convient de :
                       <ul>

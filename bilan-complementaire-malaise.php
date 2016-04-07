@@ -83,7 +83,7 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
                   <div class="clearfix"></div>
                 </div>
                 <div class="row">
-                  <div class="col-md-12 col-sm-12 col-xs-12">
+                  <div class="col-md-12 col-sm-12 col-xs-12 bdy">
                     <p>
                       Devant   une   personne  qui   présente  un  malaise   ou  des  signes  d’aggravation  d’une maladie,    il  convient  :
                     </p>

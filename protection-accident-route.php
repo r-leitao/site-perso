@@ -1,7 +1,7 @@
 <?php
 include './header.php';
 
-$titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une maladie';
+$titre = 'Bilan circonstanciel';
 ?>
 
 
@@ -64,7 +64,7 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="x_panel">
                 <div class="x_title">
-                  <h2><?php echo $titre; ?> (Théorie)</h2>
+                  <h2><?php echo $titre; ?> Théorie</h2>
                   <ul class="nav navbar-right panel_toolbox">
                     <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                     </li>
@@ -85,43 +85,20 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
                 <div class="row">
                   <div class="col-md-12 col-sm-12 col-xs-12 bdy">
                     <p>
-                      La transmission du bilan s'eftectue à l'aide des moyens et selon les procédures en vigueur entre l'autorité employant les intervenants et l'autorité médicale à laquelle le bilan est transmis. Cete transmission doit être concise, complète, structurée, logique et présentée de façon chrono-logique.
-                    </p>
-                    <h4>La situation nécessite immédiatement des moyens en renfort</h4>
-                    <p>
+                      Si les intervenants sont en véhicules, il convient de :
                       <ul>
-                        <li>Transmettre le bilan circonstanciel ; <br>Ce bilan précise la nature de l'intervention et doit être particulièrement descriptif de la situation lorsque des moyens de secours particuliers sont demandés. </li>
-                        <li>demander les moyens supplémentaires nécessaires ; </li>
-                        <li>corriger éventuellement les informations de départ erronées.</li>
+                        <li>allumer les teux de détresse de son véhicule dès qu'il approche du lieu de l'accident et ralentir ;</li>
+                        <li>garer son véhicule, si possible après le lieu de l'accident, sur la bande d'arrêt d'urgence lorsqu'elle existe ;</li>
+                        <li>mettre un gilet de sécurité haute visibilité, avant même de quiter le véhicule.</li>
                       </ul>
-                    </p>
-
-                    <h4>La victime présente une urgence vitale, la médicalisation ne fait pas de doute</h4>
-                    <p>
+                      Dans tous les cas, pour éviter un suraccident, il convient de :
                       <ul>
-                        <li>Transmettre sans délai une demande de moyen médical en renfort, mo7vée par la constatation d'une ou plusieurs détresses vitales.</li>
-                      </ul>
-                    </p>
-                    En particulier préciser :
-                    <p>
-                      <ul>
-                        <li>la nature de l'intervention ; </li>
-                        <li>le motif de la demande du renfort médical ; </li>
-                        <li>le sexe et l'âge de la victime ; </li>
-                        <li>corriger éventuellement les informations de départ erronées. </li>
-                      </ul>
-                    </p>
-                    Ultérieurement, dans les meilleurs délais, compléter par la transmission d'un bilan complet.
-                    <h4>La victime ne présente pas de détresse évidente</h4>
-                    <p>
-                      Après la réalisation du bilan complémentaire, transmettre la totalité du bilan de façon concise et ordonnée. Pour cela, il convient d'indiquer :
-                      <ul>
-                        <li>le motif réel de l'intervention ; </li>
-                        <li>le sexe et l'âge de la victime ; </li>
-                        <li>la plainte principale ; </li>
-                        <li>le résultat du bilan d'urgence vitale ; </li>
-                        <li>le résultat du bilan complémentaire ; </li>
-                        <li>les gestes de secours entrepris. </li>
+                        <li>baliser ou faire baliser de part et d'autre de l'accident, à une distance de 150 à 200 m, à l'aide d'un triangle de pré-signalisation ou d'une lampe électrique, d'un linge blanc, de teux de détresse du véhicule ;</li>
+                        <li>interdire toute approche si un danger persiste (ex. : fuite de ma7ères dangereuses) ;</li>
+                        <li>ne pas fumer et ne pas laisser fumer ;</li>
+                        <li>en présence d'un teu naissant dans un compartiment moteur, utiliser un ex7ncteur ;</li>
+                        <li>couper le contact de chaque véhicule accidenté, si possible ;</li>
+                        <li>serrer le ttrein à main, si possible, et caler le véhicule. </li>
                       </ul>
                     </p>
                   </div>

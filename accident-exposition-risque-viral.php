@@ -1,7 +1,7 @@
 <?php
 include './header.php';
 
-$titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une maladie';
+$titre = 'Bilan circonstanciel';
 ?>
 
 
@@ -64,7 +64,7 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="x_panel">
                 <div class="x_title">
-                  <h2><?php echo $titre; ?> (Théorie)</h2>
+                  <h2><?php echo $titre; ?> Théorie</h2>
                   <ul class="nav navbar-right panel_toolbox">
                     <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                     </li>
@@ -85,43 +85,40 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
                 <div class="row">
                   <div class="col-md-12 col-sm-12 col-xs-12 bdy">
                     <p>
-                      La transmission du bilan s'eftectue à l'aide des moyens et selon les procédures en vigueur entre l'autorité employant les intervenants et l'autorité médicale à laquelle le bilan est transmis. Cete transmission doit être concise, complète, structurée, logique et présentée de façon chrono-logique.
-                    </p>
-                    <h4>La situation nécessite immédiatement des moyens en renfort</h4>
-                    <p>
+                      Dès constatation d'un accident d'exposition à un risque viral :
                       <ul>
-                        <li>Transmettre le bilan circonstanciel ; <br>Ce bilan précise la nature de l'intervention et doit être particulièrement descriptif de la situation lorsque des moyens de secours particuliers sont demandés. </li>
-                        <li>demander les moyens supplémentaires nécessaires ; </li>
-                        <li>corriger éventuellement les informations de départ erronées.</li>
+                        <li>interrompre l'action de secours en cours, si possible ;</li>
+                        <li>se faire relayer.</li>
                       </ul>
-                    </p>
 
-                    <h4>La victime présente une urgence vitale, la médicalisation ne fait pas de doute</h4>
-                    <p>
+                      S'il s'agit d'une plaie :
                       <ul>
-                        <li>Transmettre sans délai une demande de moyen médical en renfort, mo7vée par la constatation d'une ou plusieurs détresses vitales.</li>
+                        <li>ne pas faire saigner ;</li>
+                        <li>nettoyer immédiatement, à l'eau courant et au savon, puis rincer ;</li>
+                        <li>
+                          réaliser l'asepsie, en assurant un temps de contact d'au moins cinq minutes, à l'aide :
+                          <ul>
+                            <li>d'un dérivé chloré stable (soluté de Dakin) ;</li>
+                            <li>d'un dérivé chloré ttraichement préparé (solution d'eau de Javel à 9° chlorométrique diluée au 1/5ème) ;</li>
+                            <li>à défaut, d'un antiseptique à large spectre (produits iodés, par exemple).En revanche, il convient de ne pas utiliser les produits pour traitement hygiénique des mains par ttriction.</li>
+                          </ul>
+                        </li>
                       </ul>
-                    </p>
-                    En particulier préciser :
-                    <p>
+                      En cas de projection sur les muqueuses, en particulier au niveau de la conjonctive :
                       <ul>
-                        <li>la nature de l'intervention ; </li>
-                        <li>le motif de la demande du renfort médical ; </li>
-                        <li>le sexe et l'âge de la victime ; </li>
-                        <li>corriger éventuellement les informations de départ erronées. </li>
+                        <li>
+                          rincer abondamment, durant au moins cinq minutes avec :
+                          <ul>
+                            <li>de préférence avec un soluté isotonique (sérum physiologique) ;</li>
+                            <li>à défaut de l'eau.</li>
+                          </ul>
+                        </li>
                       </ul>
-                    </p>
-                    Ultérieurement, dans les meilleurs délais, compléter par la transmission d'un bilan complet.
-                    <h4>La victime ne présente pas de détresse évidente</h4>
-                    <p>
-                      Après la réalisation du bilan complémentaire, transmettre la totalité du bilan de façon concise et ordonnée. Pour cela, il convient d'indiquer :
+
+                      Après la réalisation de ces soins immédiats rendre compte sans délai à son autorité d'emploi aﬁn de :
                       <ul>
-                        <li>le motif réel de l'intervention ; </li>
-                        <li>le sexe et l'âge de la victime ; </li>
-                        <li>la plainte principale ; </li>
-                        <li>le résultat du bilan d'urgence vitale ; </li>
-                        <li>le résultat du bilan complémentaire ; </li>
-                        <li>les gestes de secours entrepris. </li>
+                        <li>poursuivre la procédure de soins ;</li>
+                        <li>réaliser les ttormalités administratives obliga-toires.</li>
                       </ul>
                     </p>
                   </div>

@@ -1,7 +1,7 @@
 <?php
 include './header.php';
 
-$titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une maladie';
+$titre = 'Bilan circonstanciel';
 ?>
 
 
@@ -64,7 +64,7 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="x_panel">
                 <div class="x_title">
-                  <h2><?php echo $titre; ?> (Théorie)</h2>
+                  <h2><?php echo $titre; ?> Théorie</h2>
                   <ul class="nav navbar-right panel_toolbox">
                     <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                     </li>
@@ -85,43 +85,17 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
                 <div class="row">
                   <div class="col-md-12 col-sm-12 col-xs-12 bdy">
                     <p>
-                      La transmission du bilan s'eftectue à l'aide des moyens et selon les procédures en vigueur entre l'autorité employant les intervenants et l'autorité médicale à laquelle le bilan est transmis. Cete transmission doit être concise, complète, structurée, logique et présentée de façon chrono-logique.
-                    </p>
-                    <h4>La situation nécessite immédiatement des moyens en renfort</h4>
-                    <p>
+                      Pour faire face à ce risque, il convient de :
                       <ul>
-                        <li>Transmettre le bilan circonstanciel ; <br>Ce bilan précise la nature de l'intervention et doit être particulièrement descriptif de la situation lorsque des moyens de secours particuliers sont demandés. </li>
-                        <li>demander les moyens supplémentaires nécessaires ; </li>
-                        <li>corriger éventuellement les informations de départ erronées.</li>
-                      </ul>
-                    </p>
-
-                    <h4>La victime présente une urgence vitale, la médicalisation ne fait pas de doute</h4>
-                    <p>
-                      <ul>
-                        <li>Transmettre sans délai une demande de moyen médical en renfort, mo7vée par la constatation d'une ou plusieurs détresses vitales.</li>
-                      </ul>
-                    </p>
-                    En particulier préciser :
-                    <p>
-                      <ul>
-                        <li>la nature de l'intervention ; </li>
-                        <li>le motif de la demande du renfort médical ; </li>
-                        <li>le sexe et l'âge de la victime ; </li>
-                        <li>corriger éventuellement les informations de départ erronées. </li>
-                      </ul>
-                    </p>
-                    Ultérieurement, dans les meilleurs délais, compléter par la transmission d'un bilan complet.
-                    <h4>La victime ne présente pas de détresse évidente</h4>
-                    <p>
-                      Après la réalisation du bilan complémentaire, transmettre la totalité du bilan de façon concise et ordonnée. Pour cela, il convient d'indiquer :
-                      <ul>
-                        <li>le motif réel de l'intervention ; </li>
-                        <li>le sexe et l'âge de la victime ; </li>
-                        <li>la plainte principale ; </li>
-                        <li>le résultat du bilan d'urgence vitale ; </li>
-                        <li>le résultat du bilan complémentaire ; </li>
-                        <li>les gestes de secours entrepris. </li>
+                        <li>
+                          s'assurer que la victime n'est pas en contact direct ou indirect (eau) avec un conducteur endommagé (ﬁl électrique, appareils ménagers sous tension…) ou un câble électrique de haute tension au sol ; <br> Si c'est le cas, faire écarter immédiatement les personnes présentes et leur interdire de toucher la victime. 
+                        </li>
+                        <li>
+                          couper le courant (disjoncteur) et débrancher l'appareil en cause, si possible ; <br>En cas d'impossibilité, demander l'intervention d'une personne qualiﬁée pour réaliser cete coupure.
+                        </li>
+                        <li>
+                          ne pas s'approcher ou toucher la victime avant d'être certain que l'alimentation est coupée (Les matériaux, tel que le bois humide ou les vêtements, ne procurent aucune protection contre le courant électrique).
+                        </li>
                       </ul>
                     </p>
                   </div>

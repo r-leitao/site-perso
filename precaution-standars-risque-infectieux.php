@@ -1,7 +1,7 @@
 <?php
 include './header.php';
 
-$titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une maladie';
+$titre = 'Bilan circonstanciel';
 ?>
 
 
@@ -64,7 +64,7 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="x_panel">
                 <div class="x_title">
-                  <h2><?php echo $titre; ?> (Théorie)</h2>
+                  <h2><?php echo $titre; ?> Théorie</h2>
                   <ul class="nav navbar-right panel_toolbox">
                     <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                     </li>
@@ -84,46 +84,37 @@ $titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une m
                 </div>
                 <div class="row">
                   <div class="col-md-12 col-sm-12 col-xs-12 bdy">
-                    <p>
-                      La transmission du bilan s'eftectue à l'aide des moyens et selon les procédures en vigueur entre l'autorité employant les intervenants et l'autorité médicale à laquelle le bilan est transmis. Cete transmission doit être concise, complète, structurée, logique et présentée de façon chrono-logique.
-                    </p>
-                    <h4>La situation nécessite immédiatement des moyens en renfort</h4>
-                    <p>
-                      <ul>
-                        <li>Transmettre le bilan circonstanciel ; <br>Ce bilan précise la nature de l'intervention et doit être particulièrement descriptif de la situation lorsque des moyens de secours particuliers sont demandés. </li>
-                        <li>demander les moyens supplémentaires nécessaires ; </li>
-                        <li>corriger éventuellement les informations de départ erronées.</li>
-                      </ul>
-                    </p>
-
-                    <h4>La victime présente une urgence vitale, la médicalisation ne fait pas de doute</h4>
-                    <p>
-                      <ul>
-                        <li>Transmettre sans délai une demande de moyen médical en renfort, mo7vée par la constatation d'une ou plusieurs détresses vitales.</li>
-                      </ul>
-                    </p>
-                    En particulier préciser :
-                    <p>
-                      <ul>
-                        <li>la nature de l'intervention ; </li>
-                        <li>le motif de la demande du renfort médical ; </li>
-                        <li>le sexe et l'âge de la victime ; </li>
-                        <li>corriger éventuellement les informations de départ erronées. </li>
-                      </ul>
-                    </p>
-                    Ultérieurement, dans les meilleurs délais, compléter par la transmission d'un bilan complet.
-                    <h4>La victime ne présente pas de détresse évidente</h4>
-                    <p>
-                      Après la réalisation du bilan complémentaire, transmettre la totalité du bilan de façon concise et ordonnée. Pour cela, il convient d'indiquer :
-                      <ul>
-                        <li>le motif réel de l'intervention ; </li>
-                        <li>le sexe et l'âge de la victime ; </li>
-                        <li>la plainte principale ; </li>
-                        <li>le résultat du bilan d'urgence vitale ; </li>
-                        <li>le résultat du bilan complémentaire ; </li>
-                        <li>les gestes de secours entrepris. </li>
-                      </ul>
-                    </p>
+                    De façon générale, il convient de :
+                    <ul>
+                      <li>se laver quotidiennement le corps ;</li>
+                      <li>avoir les ongles coupés courts ;</li>
+                      <li>se laver et se désintecter régulièrement les mains dans la vie courante.</li>
+                    </ul>
+                    Au cours de l'intervention :
+                    <ul>
+                      <li>porter une tenue adaptée, conttortable et lavable ; <br>
+                      Cete tenue doit être changée dès qu'elle est souillée. </li>
+                      <li>se nettoyer régulièrement les mains et les désintecter ;</li>
+                      <li>porter des gants à usage unique et les changer régulièrement ; </li>
+                      <li>
+                        porter un masque à usage unique :
+                        <ul>
+                          <li>lors de certains gestes de secours (brûlés) ;</li>
+                          <li>associé à des lunetes ou à une visière de protection, s'il existe un risque de projections (aspirations, risques de vomis-sements, toux) ;</li>
+                        </ul>
+                      </li>
+                      <li>
+                        respecter les procédures :
+                        <ul>
+                          <li>de gestion des déchets d'activités de soins à risques intectieux et du matériel souillé par des liquides biologiques ;</li>
+                          <li>en cas d'accident d'exposition à un risque viral ;</li>
+                        </ul>
+                      </li>
+                      <li>recouvrir toute plaie par un pansement ;</li>
+                      <li>utiliser, sur le brancard, des draps à usage unique ou lavés après chaque transport ;</li>
+                      <li>utiliser, si possible, une couverture bactério-statique pour couvrir la victime ; <br> Cete couverture doit être nettoyée ou changée si elle a été souillée.</li>
+                      <li>assurer l'entretien des surfaces et du matériel après chaque intervention.</li>
+                    </ul>
                   </div>
                 </div>
               </div>

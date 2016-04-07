@@ -83,7 +83,7 @@ $titre = 'Bilan urgences vitales';
                   <div class="clearfix"></div>
                 </div>
                 <div class="row">
-                  <div class="col-md-12 col-sm-12 col-xs-12">
+                  <div class="col-md-12 col-sm-12 col-xs-12 bdy">
                     <p>
                       Le  bilan  d’urgence  vitale permet d’iden7fier  une  détresse  menaçant  à très  court terme  le  pronos7c  de  la  vic7me  et de réaliser sans délai  les  gestes de secours  appropriés, avant de  poursuivre  toute prise en  charge.  Il  se déroule  en trois  phases,  permeFant  successi-­‐vement  :
                     </p> 

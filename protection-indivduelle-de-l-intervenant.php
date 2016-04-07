@@ -83,7 +83,7 @@ $titre = 'Bilan circonstanciel';
                   <div class="clearfix"></div>
                 </div>
                 <div class="row">
-                  <div class="col-md-12 col-sm-12 col-xs-12">
+                  <div class="col-md-12 col-sm-12 col-xs-12 bdy">
                     <h4>Equipement de protection individuelle</h4>
                     <p>
                       Simple, léger et efficace, l'équipement de protection individuelle doit participer et favoriser à la sécurité de l'intervenant. En fonction des missions, il comprend :
