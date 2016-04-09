@@ -1,7 +1,7 @@
 <?php
 include './header.php';
 
-$titre = 'Sécurité sur intervention';
+$titre = 'Précaution standards contre le risque infectieux';
 ?>
 
 
@@ -84,30 +84,39 @@ $titre = 'Sécurité sur intervention';
                 </div>
                 <div class="row">
                   <div class="col-md-12 col-sm-12 col-xs-12 bdy">
-                    <h4>Sécurité sur intervention </h4>
                     <p>
-                      Lors du bilan circonstanciel, il convient de reconnaitre les dangers. Pour cela :
+                      De façon générale, il convient de :
                       <ul>
-                        <li>eftectuer une approche prudente de la zone de l'accident ; </li>
-                        <li>se renseigner, éventuellement auprès des témoins ; </li>
+                        <li>se laver quotidiennement le corps ; </li>
+                        <li>avoir les ongles coupés courts ;</li>
+                        <li>se laver et se désintecter régulièrement les mains dans la vie courante.</li>
+                      </ul>
+                      <br>
+                      Au cours de l'intervention :
+                      <ul>
+                        <li>porter une tenue adaptée, conttortable et lavable ; <br>
+                        Cette tenue doit être changée dès qu'elle est souillée. </li>
+                        <li>se nettoyer régulièrement les mains et les désintecter ;</li>
+                        <li>porter des gants à usage unique et les changer régulièrement ;</li>
                         <li>
-                          regarder autour de la victime, en restant à distance d'elle pour :
+                          porter un masque à usage unique : 
                           <ul>
-                            <li>évaluer la présence de dangers qui peuvent menacer la victime comme les intervenants ;</li>
-                            <li>repérer les personnes qui pourraient être exposées aux dangers identifiés et le nombre de victimes.</li>
+                            <li>lors de certains gestes de secours (brûlés) ;</li>
+                            <li>associé à des lunetes ou à une visière de protection, s'il existe un risque de projections (aspirations, risques de vomis-sements, toux) ;</li>
                           </ul>
                         </li>
+                        <li>
+                          respecter les procédures :
+                          <ul>
+                            <li>de gestion des déchets d'activités de soins à risques intectieux et du matériel souillé par des liquides biologiques ;</li>
+                            <li>en cas d'accident d'exposition à un risque viral ;</li>
+                          </ul>
+                        </li>
+                        <li>recouvrir toute plaie par un pansement ;</li>
+                        <li>utiliser, sur le brancard, des draps à usage unique ou lavés après chaque transport ;</li>
+                        <li>utiliser, si possible, une couverture bactério-statique pour couvrir la victime ; <br>Cete couverture doit être nettoyée ou changée si elle a été souillée.</li>
+                        <li>assurer l'entretien des surfaces et du matériel après chaque intervention.</li>
                       </ul>
-                    </p>
-                    <p>
-                      En fonction de cete première analyse de la situation, les intervenants doivent :
-                      <ul>
-                        <li>supprimer immédiatement et de façon perma-nente, si possible, les dangers environnants pour se protéger et protéger la victime et les autres personnes, notamment du suraccident ;<br>En cas d'impossibilité, réaliser un dégagement d'urgence.</li>
-                        <li>délimiter clairement, largement et visiblement la zone de danger et empêcher toute intrusion dans cete zone. </li>
-                      </ul>
-                    </p>
-                    <p>
-                      Pour réaliser la protection, ils utilisent tous les moyens matériels dont ils peuvent disposer et s'assurent si besoin du concours de toute autre personne qui pourrait apporter une aide dans la mise en œuvre de cete protection. 
                     </p>
                   </div>
                 </div>

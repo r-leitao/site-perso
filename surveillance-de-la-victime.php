@@ -1,7 +1,7 @@
 <?php
 include './header.php';
 
-$titre = 'Bilan complémentaire suite à un malaise ou l’aggravation d’une maladie';
+$titre = 'surveillance de la victime';
 ?>
 
 

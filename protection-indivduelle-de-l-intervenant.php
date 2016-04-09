@@ -1,7 +1,7 @@
 <?php
 include './header.php';
 
-$titre = 'Bilan circonstanciel';
+$titre = 'Protection individuelle de l\'intervenant ';
 ?>
 
 

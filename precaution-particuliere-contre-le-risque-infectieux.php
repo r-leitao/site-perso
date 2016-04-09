@@ -1,7 +1,7 @@
 <?php
 include './header.php';
 
-$titre = 'Sécurité sur intervention';
+$titre = 'Précaution particulière contre le risque infectieux';
 ?>
 
 
@@ -84,31 +84,43 @@ $titre = 'Sécurité sur intervention';
                 </div>
                 <div class="row">
                   <div class="col-md-12 col-sm-12 col-xs-12 bdy">
-                    <h4>Sécurité sur intervention </h4>
                     <p>
-                      Lors du bilan circonstanciel, il convient de reconnaitre les dangers. Pour cela :
-                      <ul>
-                        <li>eftectuer une approche prudente de la zone de l'accident ; </li>
-                        <li>se renseigner, éventuellement auprès des témoins ; </li>
-                        <li>
-                          regarder autour de la victime, en restant à distance d'elle pour :
-                          <ul>
-                            <li>évaluer la présence de dangers qui peuvent menacer la victime comme les intervenants ;</li>
-                            <li>repérer les personnes qui pourraient être exposées aux dangers identifiés et le nombre de victimes.</li>
-                          </ul>
-                        </li>
-                      </ul>
+                      Les précautions particulières sont complémentaires aux précautions standards. Elles sont mises en œuvre en ttonction du niveau de risque ou sur consignes des autorités d'emploi.
                     </p>
+                    Ces précautions particulières peuvent imposer de :
+                    <ul>
+                      <li>porter des gants à usage unique non stériles dès l'entrée dans la pièce ou le véhicule dans lequel se situe la victime ; </li>
+                      <li>se laver les mains avant de sortir de la pièce ou du véhicule dans lequel se situe la victime ;</li>
+                    </ul>
                     <p>
-                      En fonction de cete première analyse de la situation, les intervenants doivent :
-                      <ul>
-                        <li>supprimer immédiatement et de façon perma-nente, si possible, les dangers environnants pour se protéger et protéger la victime et les autres personnes, notamment du suraccident ;<br>En cas d'impossibilité, réaliser un dégagement d'urgence.</li>
-                        <li>délimiter clairement, largement et visiblement la zone de danger et empêcher toute intrusion dans cete zone. </li>
-                      </ul>
+                      Il convient alors de ne plus toucher l'environnement de la victime après avoir ôté les gants et s'être lavé les mains.
                     </p>
-                    <p>
-                      Pour réaliser la protection, ils utilisent tous les moyens matériels dont ils peuvent disposer et s'assurent si besoin du concours de toute autre personne qui pourrait apporter une aide dans la mise en œuvre de cete protection. 
-                    </p>
+                    <ul>
+                      <li>
+                        de porter :
+                        <ul>
+                          <li>
+                            pour les intervenants :
+                            <ul>
+                              <li>un masque de protection classé FFP2, avant d'entrer dans la pièce où se situe la victime ;</li>
+                              <li>une surblouse et une protection des cheveux (charlote), en cas de contact avec la victime ou avec des surfaces ou matériels pouvant être contaminés ;</li>
+                            </ul>
+                          </li>
+                          <li>
+                            pour la victime:
+                            <ul>
+                              <li>un masque de type chirurgical ou un masque de protection respiratoire (sans soupape d'expiration)<sup>1</sup> ;</li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>utiliser au maximum du matériel à usage unique.</li>
+                      <li>limiter les déplacements de la victime ; </li>
+                      <li>isoler la victime, dans une pièce particulière, lors de sa prise en charge ;</li>
+                      <li>envelopper la victime dans un drap à usage unique ;</li>
+                      <li>nettoyer et désintecter le véhicule et le matériel dès la ﬁn du transport ;</li>
+                      <li>transporter individuellement chaque victime. </li>
+                    </ul>
                   </div>
                 </div>
               </div>

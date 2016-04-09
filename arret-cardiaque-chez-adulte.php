@@ -1,7 +1,7 @@
 <?php
 include './header.php';
 
-$titre = 'Bilan circonstanciel';
+$titre = 'Arrêt cardiaque chez l\'adulte';
 ?>
 
 
@@ -84,36 +84,46 @@ $titre = 'Bilan circonstanciel';
                 </div>
                 <div class="row">
                   <div class="col-md-12 col-sm-12 col-xs-12 bdy">
-                    De façon générale, il convient de :
                     <ul>
-                      <li>se laver quotidiennement le corps ;</li>
-                      <li>avoir les ongles coupés courts ;</li>
-                      <li>se laver et se désintecter régulièrement les mains dans la vie courante.</li>
-                    </ul>
-                    Au cours de l'intervention :
-                    <ul>
-                      <li>porter une tenue adaptée, conttortable et lavable ; <br>
-                      Cete tenue doit être changée dès qu'elle est souillée. </li>
-                      <li>se nettoyer régulièrement les mains et les désintecter ;</li>
-                      <li>porter des gants à usage unique et les changer régulièrement ; </li>
+                      <li>Demander sans délai, en urgence absolue, un renttort médical ;</li>
+                      <li>débuter immédiatement une RCP en répétant des cycles de trente compressions thoraciques suivies de deux insufflations ; <br> En présence d'un corps étranger pénétrant dans le thorax et empêchant la RCP, le retirer au préalable.</li>
+                      <li>mettre en œuvre, le plus tôt possible, le DAE et suivre les indications de l'appareil ;
+                      <br>
+                      A deux, si l'un des secouristes est occupé à demander les moyens de renttort, l'autre met immédiatement en œuvre le DAE, si l'appareil est disponible.
+                      <br>
+                      En l'absence de DAE, il poursuit la RCP jusqu'à ce que le second secouriste le rejoigne avec le DAE et le mete en œuvre.
+                      <br>
+                      Au-delà de deux secouristes, les trois actions sont réalisées simultanément. La mise en place des électrodes du DAE sur la victime doit se faire sans interruption des manœuvres de RCP.</li>
+                      <li>poursuivre la RCP jusqu'à ce que le DAE demande son interruption ;</li>
                       <li>
-                        porter un masque à usage unique :
+                        reprendre la RCP :
                         <ul>
-                          <li>lors de certains gestes de secours (brûlés) ;</li>
-                          <li>associé à des lunetes ou à une visière de protection, s'il existe un risque de projections (aspirations, risques de vomis-sements, toux) ;</li>
+                          <li>immédiatement après la délivrance d'un choc électrique par le DAE ;</li>
+                          <li>lorsque le DAE le demande et si la victime est toujours en arrêt cardiaque ;</li>
+                          <li>administrer de l'oxygène par insufflation ;
+                          <br>
+                          L'apport d'oxygène à la victime sous ventilation artificielle doit être réalisé dès que possible,sans retarder la mise en œuvre des gestes de réanimation</li>
+                          <li>réaliser une aspiration des sécrétions, si nécessaire ;
+                          <br>
+                          Lorsque l'aspiration de sécrétions est réalisée, elle ne doit pas retarder les manœuvres de RCP ou de délivrance d'un choc électrique.
+                          </li>
+                          <li>
+                            mettre en place une canule oro-pharyngée, si nécessaire ; 
+                            <br>Une canule oro-pharyngée est mise en place en cas de ventilation artificielle inefficace par difficulté de maintien des voies aériennes de la victime libres.
+                          </li>
+                          <li>
+                            poursuivre la réanimation entreprise jusqu'à l'arrivée des renttorts médicalisés ou à la reprise d'une respiration normale. 
+                          </li>
+                        </ul>
+                        <p>
+                          Pour assurer une RCP efficace, les secouristes doivent se relayer toutes les deux minutes. Ce changement sera eftectué lors de l'analyse du rythme cardiaque par le DAE, si celui-ci est en place.
+                        </p>
+                        Si la victime commence à se réveiller (bouge, ouvre les yeux et respire normalement): 
+                        <ul>
+                          <li>cesser les manœuvres de réanimation ;</li>
+                          <li>adopter la conduite à tenir adaptée à une victime présentant une perte de connaissance.</li>
                         </ul>
                       </li>
-                      <li>
-                        respecter les procédures :
-                        <ul>
-                          <li>de gestion des déchets d'activités de soins à risques intectieux et du matériel souillé par des liquides biologiques ;</li>
-                          <li>en cas d'accident d'exposition à un risque viral ;</li>
-                        </ul>
-                      </li>
-                      <li>recouvrir toute plaie par un pansement ;</li>
-                      <li>utiliser, sur le brancard, des draps à usage unique ou lavés après chaque transport ;</li>
-                      <li>utiliser, si possible, une couverture bactério-statique pour couvrir la victime ; <br> Cete couverture doit être nettoyée ou changée si elle a été souillée.</li>
-                      <li>assurer l'entretien des surfaces et du matériel après chaque intervention.</li>
                     </ul>
                   </div>
                 </div>

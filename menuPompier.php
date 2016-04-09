@@ -26,14 +26,14 @@
                 </li>
                 <li><a><i class="fa fa-home"></i> Hygiène et asepsie <span class="fa fa-chevron-down"></span></a>
                   <ul class="nav child_menu" style="display: none">
-                    <li><a href="index.html">Accident d’exposition à un risque viral</a></li>
-                    <li><a href="precaution-standars-risque-infectieux.php">Précautions standards contre le risque infectieux</a></li>
-                    <li><a href="index3.html">Précautions particulières contre le risque infectieux</a></li>
+                    <li><a href="accident-exposition-risque-viral.php">Accident d’exposition à un risque viral</a></li>
+                    <li><a href="precaution-standards-contre-le-risque-infectieux.php">Précautions standards contre le risque infectieux</a></li>
+                    <li><a href="precaution-particuliere-contre-le-risque-infectieux.php">Précautions particulières contre le risque infectieux</a></li>
                   </ul>
                 </li>
                 <li><a><i class="fa fa-home"></i> Urgences vitales <span class="fa fa-chevron-down"></span></a>
                   <ul class="nav child_menu" style="display: none">
-                    <li><a href="index.html">Arrêt cardiaque chez l'adulte</a></li>
+                    <li><a href="arret-cardiaque-chez-adulte.php">Arrêt cardiaque chez l'adulte</a></li>
                     <li><a href="index2.html">Arrêt cardiaque chez l'adulte en sauveteur isolé</a></li>
                     <li><a href="index3.html">Arrêt cardiaque chez l'enfant ou le nourisson</a></li>
                     <li><a href="index3.html">Arrêt cardiaque chez l'enfant ou le nourisson en sauveteur isolé</a></li>

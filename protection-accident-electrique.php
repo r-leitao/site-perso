@@ -1,7 +1,7 @@
 <?php
 include './header.php';
 
-$titre = 'Bilan circonstanciel';
+$titre = 'Protection d\'un accident électrique';
 ?>
 
 
