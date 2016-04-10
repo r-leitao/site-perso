@@ -34,7 +34,7 @@
                 <li><a><i class="fa fa-home"></i> Urgences vitales <span class="fa fa-chevron-down"></span></a>
                   <ul class="nav child_menu" style="display: none">
                     <li><a href="arret-cardiaque-chez-adulte.php">Arrêt cardiaque chez l'adulte</a></li>
-                    <li><a href="index2.html">Arrêt cardiaque chez l'adulte en sauveteur isolé</a></li>
+                    <li><a href="arret-cardiaque-chez-adulte-sauveteur-isole.php">Arrêt cardiaque chez l'adulte en sauveteur isolé</a></li>
                     <li><a href="index3.html">Arrêt cardiaque chez l'enfant ou le nourisson</a></li>
                     <li><a href="index3.html">Arrêt cardiaque chez l'enfant ou le nourisson en sauveteur isolé</a></li>
                     <li><a href="index3.html">Détresse circulatoire</a></li>
