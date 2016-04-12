@@ -35,11 +35,11 @@
                   <ul class="nav child_menu" style="display: none">
                     <li><a href="arret-cardiaque-chez-adulte.php">Arrêt cardiaque chez l'adulte</a></li>
                     <li><a href="arret-cardiaque-chez-adulte-sauveteur-isole.php">Arrêt cardiaque chez l'adulte en sauveteur isolé</a></li>
-                    <li><a href="index3.html">Arrêt cardiaque chez l'enfant ou le nourisson</a></li>
-                    <li><a href="index3.html">Arrêt cardiaque chez l'enfant ou le nourisson en sauveteur isolé</a></li>
-                    <li><a href="index3.html">Détresse circulatoire</a></li>
-                    <li><a href="index3.html">Détresse neurologique</a></li>
-                    <li><a href="index3.html">Détresse respiratoire</a></li>
+                    <li><a href="arret-cardiaque-chez-enfant-ou-nourrisson.php">Arrêt cardiaque chez l'enfant ou le nourisson</a></li>
+                    <li><a href="arret-cardiaque-chez-enfant-ou-nourrisson-sauveteur-isole.php">Arrêt cardiaque chez l'enfant ou le nourisson en sauveteur isolé</a></li>
+                    <li><a href="detresse-circulatoire.php">Détresse circulatoire</a></li>
+                    <li><a href="detresse-neurologique.php">Détresse neurologique</a></li>
+                    <li><a href="detresse-respiratoire.php">Détresse respiratoire</a></li>
                     <li><a href="index3.html">Hémorragie externe</a></li>
                     <li><a href="index3.html">Hémorragie extériorisée par la bouche</a></li>
                     <li><a href="index3.html">Hémorragie extériorisée par le nez</a></li>
