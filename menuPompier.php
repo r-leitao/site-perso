@@ -40,10 +40,11 @@
                     <li><a href="detresse-circulatoire.php">Détresse circulatoire</a></li>
                     <li><a href="detresse-neurologique.php">Détresse neurologique</a></li>
                     <li><a href="detresse-respiratoire.php">Détresse respiratoire</a></li>
-                    <li><a href="index3.html">Hémorragie externe</a></li>
-                    <li><a href="index3.html">Hémorragie extériorisée par la bouche</a></li>
-                    <li><a href="index3.html">Hémorragie extériorisée par le nez</a></li>
-                    <li><a href="index3.html">Hémorragie vaginale</a></li>
+                    <li><a href="hemorragie-externe.php">Hémorragie externe</a></li>
+                    <li><a href="hemorragie-exteriorisee-oreille.php">Hémorragie extériorisée par l'oreille</a></li>
+                    <li><a href="hemorragie-exteriorisee-bouche.php">Hémorragie extériorisée par la bouche</a></li>
+                    <li><a href="hemorragie-exteriorisee-nez.php">Hémorragie extériorisée par le nez</a></li>
+                    <li><a href="hemorragie-vaginale.php">Hémorragie vaginale</a></li>
                     <li><a href="index3.html">Hémorragie extériorisées - Autres types</a></li>
                     <li><a href="index3.html">Obstruction partielle des voies aériennes</a></li>
                     <li><a href="index3.html">Obstruction totale des voies aériennes</a></li>
