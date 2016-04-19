@@ -45,12 +45,12 @@
                     <li><a href="hemorragie-exteriorisee-bouche.php">Hémorragie extériorisée par la bouche</a></li>
                     <li><a href="hemorragie-exteriorisee-nez.php">Hémorragie extériorisée par le nez</a></li>
                     <li><a href="hemorragie-vaginale.php">Hémorragie vaginale</a></li>
-                    <li><a href="index3.html">Hémorragie extériorisées - Autres types</a></li>
-                    <li><a href="index3.html">Obstruction partielle des voies aériennes</a></li>
-                    <li><a href="index3.html">Obstruction totale des voies aériennes</a></li>
-                    <li><a href="index3.html">Perte de connaissance</a></li>
-                    <li><a href="index3.html">Perte de connaissance en sauveteur isolé</a></li>
-                    <li><a href="index3.html">Section de membre</a></li>
+                    <li><a href="hemorragie-exteriorisee-autres-types.php">Hémorragie extériorisées - Autres types</a></li>
+                    <li><a href="obstruction-partielle-voies-aeriennes.php">Obstruction partielle des voies aériennes</a></li>
+                    <li><a href="obstruction-totale-voies-aeriennes.php">Obstruction totale des voies aériennes</a></li>
+                    <li><a href="perte-de-connaissance.php">Perte de connaissance</a></li>
+                    <li><a href="perte-de-connaissance-sauveteur-isole.php">Perte de connaissance en sauveteur isolé</a></li>
+                    <li><a href="section-de-membre.php">Section de membre</a></li>
                   </ul>
                 </li>
                 <li><a><i class="fa fa-home"></i> Malaises et affections spécifiques <span class="fa fa-chevron-down"></span></a>
