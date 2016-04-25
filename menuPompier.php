@@ -55,11 +55,11 @@
                 </li>
                 <li><a><i class="fa fa-home"></i> Malaises et affections spécifiques <span class="fa fa-chevron-down"></span></a>
                   <ul class="nav child_menu" style="display: none">
-                    <li><a href="index.html">Crise convulsive généralisée</a></li>
-                    <li><a href="index2.html">Crise d’asthme</a></li>
-                    <li><a href="index3.html">Malaise diabétique</a></li>
-                    <li><a href="index3.html">Malaise et aggravation de maladie</a></li>
-                    <li><a href="index3.html">Réaction allergique</a></li>
+                    <li><a href="crise-convulsive-generalise.php">Crise convulsive généralisée</a></li>
+                    <li><a href="crise-d-asthme.php">Crise d’asthme</a></li>
+                    <li><a href="malaise-diabetique.php">Malaise diabétique</a></li>
+                    <li><a href="malaise-aggravation-maladie.php">Malaise et aggravation de maladie</a></li>
+                    <li><a href="reaction-allergique.php">Réaction allergique</a></li>
                   </ul>
                 </li>
                 <li><a><i class="fa fa-home"></i> Atteintes circonstancielles <span class="fa fa-chevron-down"></span></a>
