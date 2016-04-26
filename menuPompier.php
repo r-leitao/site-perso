@@ -64,9 +64,9 @@
                 </li>
                 <li><a><i class="fa fa-home"></i> Atteintes circonstancielles <span class="fa fa-chevron-down"></span></a>
                   <ul class="nav child_menu" style="display: none">
-                    <li><a href="index.html">Accident électrique</a></li>
-                    <li><a href="index2.html">Accidents liés à la plongée</a></li>
-                    <li><a href="index3.html">Accouchement inopiné</a></li>
+                    <li><a href="accident-electrique.php">Accident électrique</a></li>
+                    <li><a href="accident-lies-plongee.php">Accidents liés à la plongée</a></li>
+                    <li><a href="accouchement-inopine.php">Accouchement inopiné</a></li>
                     <li><a href="index3.html">Prise en charge du nouveau né à la naissance</a></li>
                     <li><a href="index3.html">Crampe</a></li>
                     <li><a href="index3.html">Insolation</a></li>
